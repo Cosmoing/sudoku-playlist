@@ -1,6 +1,6 @@
 # YouTube Playlist
 
-This is a simple fork of LumenTheFairy's Youtube Playlist for use with songs from the Fangame Music Quiz, but using a special selection for the Sudoku Block of Fangame Marathon 2019.
+This is a simple fork of LumenTheFairy's Youtube Playlist for use with songs from the Fangame Music Quiz, but using a special selection for the Sudoku Block of Fangame Marathon.
 
 You can find the original here: https://github.com/LumenTheFairy/youtube-playlist
 
